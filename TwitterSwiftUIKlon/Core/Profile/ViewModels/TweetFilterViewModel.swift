@@ -16,7 +16,7 @@ case likes
         switch self {
         case .tweets: return "Tweets"
         case .replies: return "Replies"
-        case .likes: return "Likes"
+        case .likes: return "Likes" 
     }
   }
 }
